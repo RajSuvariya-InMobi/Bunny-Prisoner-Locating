@@ -1,6 +1,6 @@
 # Bunny-Prisoner-Locating
 
-Bunny Prisoner Locaating
+Bunny Prisoner Locating
 
 Keeping track of Commander Lambda's many bunny prisoners is starting to get tricky. You've been tasked with writing a program to match bunny prisoner IDs to cell locations.
 
