@@ -10,8 +10,9 @@ def answer(x, y):
     a= 1
     b = x+y-1
     count = 0
-    for i in range(1,b+1):
-        count +=i
+    """for i in range(1,b+1):
+        count +=i"""
+    count = ((b+1)*(b+2))/2
     count -= (b-a)
     count += (x-1)
     return count
